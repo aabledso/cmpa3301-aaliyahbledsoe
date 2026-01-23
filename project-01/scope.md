@@ -1,5 +1,5 @@
 # Project Scope
-I am creating a personal webpage to demonstrate the knowledge I've gained throught the completion of my Computing Applications Degree. I also want the webpage to serve as a way for potential employers or people I've networked with to gain insight into who I am, what my qualifications are, and what I will bring to their team.
+I am creating a personal webpage to demonstrate the knowledge I've gained throughout the completion of my Computing Applications Degree. I also want the webpage to serve as a way for potential employers or people I've networked with to gain insight into who I am, what my qualifications are, and what I will bring to their team.
 ## Description
 Creating my personal webpage will require me to apply all of the concepts I've learned throughout my Computing Applications courses. It will have landing, about, qualifications, interests, education, and contact pages. The webpage will provide a general oversight of who I am and my professional aspirations.
 ## Desired Results
