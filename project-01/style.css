@@ -8,6 +8,15 @@ body {
     background-color: #dfc19d;
 }
 
+div {
+    width: 300px;
+    height: 150px;
+    background-color: #a3c4bc;
+    border: 2px solid #4c6a71;
+    padding: 10px;
+    margin: 20px;
+}
+
 h1 {
     color: #4c6a71;
     font-family: 'Arial Black', Gadget, sans-serif;
