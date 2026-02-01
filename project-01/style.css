@@ -5,15 +5,28 @@
 }
 
 body {
-    background-color: rgba(223, 227, 227, 0.264);
+    background-color: #dfc19d;
 }
 
 h1 {
-    color: rgb(80, 189, 213);
+    color: #4c6a71;
     font-family: 'Arial Black', Gadget, sans-serif;
 }
 
+h2 {
+    color: #655437;
+    font-family: 'Georgia', serif;
+}
+
 p {
-    color: rgb(80, 84, 83);
+    color: #1d1915;
     font-family: 'Courier New', Courier, monospace;
+}
+
+ul {
+    color: #485f64;
+}
+
+a {
+    color: #7b4e2a;
 }
